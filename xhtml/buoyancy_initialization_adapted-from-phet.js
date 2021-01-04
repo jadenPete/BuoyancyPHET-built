@@ -2,7 +2,7 @@ window.phet = {};
 window.phet.chipper = {};
 window.phet.chipper.project = 'buoyancy';
 window.phet.chipper.version = '1.0.0-dev.0';
-window.phet.chipper.buildTimestamp = '2020-12-30 23:50:51 UTC';
+window.phet.chipper.buildTimestamp = '2021-01-04 20:23:14 UTC';
 window.phet.chipper.brand = 'adapted-from-phet';
 window.phet.chipper.locale = 'en';
 
@@ -602,7 +602,7 @@ window.phet.chipper.thirdPartyLicenseEntries = {
 };
 // ### END THIRD PARTY LICENSE ENTRIES ###
 window.phet.chipper.dependencies = {
-  "comment": "# buoyancy 1.0.0-dev.0 Wed Dec 30 2020 15:50:53 GMT-0800 (Pacific Standard Time)",
+  "comment": "# buoyancy 1.0.0-dev.0 Mon Jan 04 2021 12:23:16 GMT-0800 (Pacific Standard Time)",
   "assert": {
     "sha": "3df8c5ff9a465b031f84195a90bbb7e1be10a14d",
     "branch": "master"
@@ -616,7 +616,7 @@ window.phet.chipper.dependencies = {
     "branch": "master"
   },
   "buoyancy": {
-    "sha": "82f1b1bee7c676fd2d3425a4a9a24d1b584cedcf",
+    "sha": "51b435ae21fcc54fdb99cea3ad40c6d4379f2b00",
     "branch": "master"
   },
   "chipper": {
